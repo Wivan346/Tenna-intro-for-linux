@@ -6,7 +6,7 @@
 
 ## Preview
 <p aligm="center">
-   <img width="400" alt="intro" src="https://github.com/user-attachments/assets/55d547a1-7c85-4f87-ac34-be0f7247e25d" />
+   <img width="400" alt="intro_wivan346" src="https://github.com/user-attachments/assets/940970cf-bc43-4f7f-b23c-08f43f4aff2d" />
 </p>
 
 link for youtube
