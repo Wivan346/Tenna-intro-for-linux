@@ -1,0 +1,13 @@
+[Unit]
+After=systemd-user-sessions.service plymouth-quit-wait.service
+Before=display-manager.service
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/boot-intro.sh
+StandardOutput=tty
+StandardError=tty
+TTYPath=/dev/tty1
+
+[Install]
+WantedBy=graphical.target
